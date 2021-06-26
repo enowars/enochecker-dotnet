@@ -1,0 +1,9 @@
+.vs
+*/bin/
+*/obj/
+*/Properties/
+*.cfg
+*.code-workspace
+data
+obj
+*.binlog
